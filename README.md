@@ -1,8 +1,6 @@
 
 # Hi there 👋, I'm Max
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
 ## I'm a junior FrontEnd Developer
 - ⚡ I love coddig and play the guitar
 
