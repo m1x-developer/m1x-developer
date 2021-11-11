@@ -30,13 +30,14 @@
 <br />
 
 
+### ⚙️ &nbsp;GitHub Analytics
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1x-developer&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m1x-developer&show_icons=true" />
-</details>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m1x-developer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m1x-developer&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 [website]: #
 [instagram]: https://www.instagram.com/korolyov.maks_/
