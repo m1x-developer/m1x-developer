@@ -26,19 +26,6 @@
 
 
 
-<br />
-<br />
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m1x-developer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m1x-developer&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 [website]: #
 [instagram]: https://www.instagram.com/korolyov.maks_/
 [vk]: https://vk.com/applejkee
