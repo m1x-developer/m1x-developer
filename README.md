@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="Max | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Max | VK" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fapi.icons8.com%2Fdownload%2Fd95d5282bf34ebdda41c6dcc9fc0b70b229a7d48%2FColor%2FPNG%2F512%2FSocial_Networks%2Fvk_com-512.png&imgrefurl=https%3A%2F%2Fv2.iconsearch.ru%2Ftags%2F%25D0%25B2%25D0%25BA%25D0%25BE%25D0%25BD%25D1%2582%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B5%2F&tbnid=hJuNPsy3YsWm1M&vet=12ahUKEwjKjcTa1ZD0AhXaBncKHayoBB8QMygLegUIARC-AQ..i&docid=DRzHL8eqpnuq4M&w=512&h=512&itg=1&q=%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0%20vk&client=firefox-b-d&ved=2ahUKEwjKjcTa1ZD0AhXaBncKHayoBB8QMygLegUIARC-AQ" />][vk]
 
 <br />
 
