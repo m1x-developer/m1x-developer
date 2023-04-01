@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Max
 
-## I'm a junior FrontEnd Developer
+## I'm FrontEnd Developer
 - ⚡ I love coddig and play the guitar
 
 
